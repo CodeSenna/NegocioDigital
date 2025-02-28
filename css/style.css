@@ -85,3 +85,8 @@ body {
   font-family: "Montserrat", sans-serif;
   border-radius: 16px;
 }
+
+.imagem {
+  max-width: 40%;
+  border-radius: 10px;
+}
